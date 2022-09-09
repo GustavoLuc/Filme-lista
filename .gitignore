@@ -1,14 +1,16 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+src2/public
+/public
+src2/src
+/src
 # dependencies
 /node_modules
 /.pnp
 .pnp.js
 tes.js
 
-#desenvolvimento
-/public
-/src
+
+
 # testing
 /coverage
 
